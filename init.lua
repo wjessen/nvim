@@ -1,2 +1,2 @@
 require("wayne")
-print("hello")
+require("plugins")
